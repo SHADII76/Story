@@ -1,0 +1,6 @@
+Chapter 4 has been added at a later time here. Not same time as the first three chapters. 
+Its added in the main branch, not in the potential-text branch.
+Also, it has been added after modifying the three chapters, only inside the main branch.
+Basically, you continue with the main project, by adding chapter 4 for example.
+The having some new features added to the first three chapters which are not interrupting you min project.
+You can merge all together later when you are sure about the new features.
